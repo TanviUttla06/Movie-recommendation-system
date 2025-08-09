@@ -49,11 +49,6 @@ The results demonstrate the effectiveness of ensemble methods like Random Forest
 - Integration of deep learning models like LSTMs and BERT for enhanced performance.
 - Exploring domain-specific word embeddings for improved sentiment classification.
 
-## Contact
-For queries or collaboration, feel free to contact:
-**Yogendra**  
-Bioengineering Student, IIT Jodhpur  
-Email: ykyogendra955@gmail.com
 
 ---
 *"This project represents a step forward in leveraging machine learning for sentiment analysis, showcasing the integration of various algorithms and NLP techniques."*
